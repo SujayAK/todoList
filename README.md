@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This application is not connected to NoSQL db like MongoDB, instead it is connected to json-server
 So please paste the below command in powershell terminal to connect ot json-server database
-### `npx json-server -p 3500 -w ./data/db.json
+### `npx json-server -p 3500 -w ./data/db.json`
 
 ## Available Scripts
 
